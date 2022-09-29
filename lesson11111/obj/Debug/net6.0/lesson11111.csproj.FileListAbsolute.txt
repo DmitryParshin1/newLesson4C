@@ -1,0 +1,15 @@
+/Users/dimaparsin/Desktop/examples/lesson11111/bin/Debug/net6.0/lesson11111
+/Users/dimaparsin/Desktop/examples/lesson11111/bin/Debug/net6.0/lesson11111.deps.json
+/Users/dimaparsin/Desktop/examples/lesson11111/bin/Debug/net6.0/lesson11111.runtimeconfig.json
+/Users/dimaparsin/Desktop/examples/lesson11111/bin/Debug/net6.0/lesson11111.dll
+/Users/dimaparsin/Desktop/examples/lesson11111/bin/Debug/net6.0/lesson11111.pdb
+/Users/dimaparsin/Desktop/examples/lesson11111/obj/Debug/net6.0/lesson11111.csproj.AssemblyReference.cache
+/Users/dimaparsin/Desktop/examples/lesson11111/obj/Debug/net6.0/lesson11111.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimaparsin/Desktop/examples/lesson11111/obj/Debug/net6.0/lesson11111.AssemblyInfoInputs.cache
+/Users/dimaparsin/Desktop/examples/lesson11111/obj/Debug/net6.0/lesson11111.AssemblyInfo.cs
+/Users/dimaparsin/Desktop/examples/lesson11111/obj/Debug/net6.0/lesson11111.csproj.CoreCompileInputs.cache
+/Users/dimaparsin/Desktop/examples/lesson11111/obj/Debug/net6.0/lesson11111.dll
+/Users/dimaparsin/Desktop/examples/lesson11111/obj/Debug/net6.0/refint/lesson11111.dll
+/Users/dimaparsin/Desktop/examples/lesson11111/obj/Debug/net6.0/lesson11111.pdb
+/Users/dimaparsin/Desktop/examples/lesson11111/obj/Debug/net6.0/lesson11111.genruntimeconfig.cache
+/Users/dimaparsin/Desktop/examples/lesson11111/obj/Debug/net6.0/ref/lesson11111.dll
